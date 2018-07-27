@@ -1,0 +1,9 @@
+.active {
+	transition: all .7s ease-in-out;
+	opacity: 1;
+}
+
+.defaults {
+	transition: all .7s ease-in-out;
+	opacity: 0;
+}
